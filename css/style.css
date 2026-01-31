@@ -1,0 +1,49 @@
+h2{
+    color: pink;
+    background-color: blueviolet;
+    text-align: center;
+}
+
+h3{
+    font-style: italic;
+    text-align: left;
+    color: maroon;
+}
+ol{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: orangered;
+    line-height: 20px;
+}
+
+.aboutme{
+    font-style: italic;
+
+}
+
+.education{
+    color: brown;    
+}
+
+.emphasize{
+    font-weight: bolder;
+}
+
+.highlight{
+    background-color: yellow;
+}
+
+.decorate{
+    color: red;
+}
+
+.style{
+    font-style: italic;
+}
+
+.New{
+    color: blue;
+}
+
+#Anotherline{
+    color: blue;
+}
